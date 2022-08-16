@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gimesi13
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on any web dev projects
 
 <!---
